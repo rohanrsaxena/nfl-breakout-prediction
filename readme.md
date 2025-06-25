@@ -1,8 +1,8 @@
 # NFL Player Breakout Prediction Model
 
 ## Team
-- **Kyle Ayisi** - [@kayisi1](https://github.com/kayisi1)
 - **Rohan Saxena** - [@rohanrsaxena](https://github.com/rohanrsaxena) 
+- **Kyle Ayisi** - [@kayisi1](https://github.com/kayisi1)
 - **Jeremy Ampofo** - [@jtamps](https://github.com/jtamps)
 
 ## Overview
