@@ -3,9 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 
-*UC Davis MSBA Program - BAX452 Machine Learning Final Project*
-
-## Team Members
+## Developers
 - **Kyle Ayisi** - [@kayisi1](https://github.com/kayisi1)
 - **Rohan Saxena** - [@rohanrsaxena](https://github.com/rohanrsaxena) 
 - **Jeremy Ampofo** - [@jtamps](https://github.com/jtamps)
@@ -104,10 +102,10 @@ Multiple approaches were evaluated:
 
 ```
 nfl-breakout-prediction/
-├── MLProjFinal.py              # Main training script
+├── nfl-prediction.py              # Main training script
 ├── requirements.txt            # Python dependencies
 ├── README.md                  # Project documentation
-├── ML_Project_Report.pdf      # Detailed technical report
+├── Project_Report.pdf      # Detailed technical report
 ├── FinalOutput/               # Model outputs
 │   ├── breakout_predictions_2025.csv
 │   └── randomforestbreakoutmodel.pkl
@@ -151,10 +149,8 @@ nfl-breakout-prediction/
 ## Acknowledgments
 
 - NFL data provided by [nfl_data_py](https://github.com/cooperdff/nfl_data_py)
-- UC Davis MSBA Program, BAX452 Machine Learning Course
 
 ## Contact
-
 For questions about this project, please contact any of the team members:
 - Kyle Ayisi - [@kayisi1](https://github.com/kayisi1)
 - Rohan Saxena - [@rohanrsaxena](https://github.com/rohanrsaxena)
